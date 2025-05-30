@@ -12,7 +12,7 @@ Exam Registration system. After the end of the due date for submitting the form,
 information is in turn forwarded to the administrator's view.
 4. The applications are then processed based on the information given by the applicant,
 and any forfeiting identified can make the applicant liable to penalty as per the law.
-5. The administrator after successful confirmation, initiates the process to generate the
+5. The administrator after successful confirmation, initiates the process to generate the 
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
